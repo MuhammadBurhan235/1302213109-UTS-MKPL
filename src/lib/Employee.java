@@ -64,6 +64,7 @@ public class Employee {
 		if (isForeigner) {
 			monthlySalary = (int) (monthlySalary * 1.5);
 		}
+		//merge kedua karena merge 1 ngak pake message
 	}
 	
 	
